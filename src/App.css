@@ -45,3 +45,12 @@
   height: 30px;
   border-radius: 5px;
 }
+
+.boton {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+  margin-top: 10px;
+  align-self: flex-end;
+}
